@@ -674,7 +674,7 @@ News98新闻台,http://stream.rcs.revma.com/55tyxsy4qtzuv
 广东音乐之声,https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
 
 
-地方直播,#genre#
+直播中国,#genre#
 
 中国-精编直播,http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 北京-海洋馆,http://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
@@ -864,7 +864,7 @@ News98新闻台,http://stream.rcs.revma.com/55tyxsy4qtzuv
 
 
 
-熊猫频道,#genre#
+熊猫,#genre#
 
 禄禄,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao11_2/index.m3u8
 盼青/青花/青露,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao12_2/index.m3u8
@@ -887,7 +887,7 @@ News98新闻台,http://stream.rcs.revma.com/55tyxsy4qtzuv
 
 
 
-DJ舞曲,#genre#
+DJ音乐,#genre#
 
 热火斯卡拉,https://vd4.bdstatic.com/mda-nk3qfbxhf5dqpywt/sc/cae_h264/1667582665910576925/mda-nk3qfbxhf5dqpywt.mp4
 花都开了你来不来DJ,https://vd3.bdstatic.com/mda-mdee523swbezmsin/480p/h264/1618480997/mda-mdee523swbezmsin.mp4
@@ -999,7 +999,7 @@ DJ伤感好听《红颜知己》《事与愿违》《缘分相遇》《知情念
 
 
 
-MTV,#genre#
+抒情情歌,#genre#
 
 纸短情长,https://vdse.bdstatic.com//e214194bf6de7f598b9873619b691fa6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A26%3A53Z%2F-1%2Fhost
 陈柯宇生僻字,http://vd2.bdstatic.com/mda-jb28qp6tauzkzpy9/hd/mda-jb28qp6tauzkzpy9.mp4
@@ -1117,6 +1117,9 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 传奇_黄晓凤,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9b62-AUomeie4gY.mp4
 成龙金喜善_美丽的神话,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_tma4gUowLvk9wM.mp4
 陈慧娴-逝去的诺言,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/i78cWdjCSglPJHDaedL%40%40ld.m3u8
+
+MTV,#genre#
+
 冷漠-古咖啡,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_3142984&response=res&format=mp4&type=convert_url
 冷漠-时光海灣,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_9867444&response=res&format=mp4&type=convert_url
 冷漠-真不是闹着玩,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_22836669&response=res&format=mp4&type=convert_url
