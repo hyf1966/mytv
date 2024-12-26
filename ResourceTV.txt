@@ -53,7 +53,7 @@ https://ghp.ci/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 
 8.Github 个人自定义维护	
 https://hyf1966.github.io/mytv/ipv6.txt
-
+https://hyf1966.github.io/mytv/ipv6.m3u
 
 
 开源源代码
