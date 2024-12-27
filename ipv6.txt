@@ -1458,15 +1458,7 @@ News98新闻台,http://stream.rcs.revma.com/55tyxsy4qtzuv
 雪乡梦幻家园,http://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
 云南丽江玉龙雪山,http://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
 中央电视塔东,http://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
-禄禄,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao11_2/index.m3u8
-盼青/青花/青露,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao12_2/index.m3u8
-妃妃,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao13_2/index.m3u8
-华盟盟/金嘟嘟,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao14_2/index.m3u8
-家宝,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao15_2/index.m3u8
-盼青/青花/青露,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao16_2/index.m3u8
-禄禄,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao18_2/index.m3u8
-喜豆/巢天骄/豆伴,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao20_2/index.m3u8
-绅宾/深深/漫漫,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao20_2/index.m3u8
+
 湖南张家界水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 湖南张家界将军列队,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
 湖南张家界迷魂台,https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
@@ -1562,6 +1554,7 @@ News98新闻台,http://stream.rcs.revma.com/55tyxsy4qtzuv
 禄禄,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao18_2/index.m3u8
 喜豆/巢天骄/豆伴,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao20_2/index.m3u8
 绅宾/深深/漫漫,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao20_2/index.m3u8
+
 幼年园A,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao03_2/index.m3u8
 幼年园B,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao04_2/index.m3u8
 幼儿园A,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao05_2/index.m3u8
