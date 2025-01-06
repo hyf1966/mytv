@@ -1,0 +1,25 @@
+﻿{"storeHouse": [
+{"sourceName":"宝盒","sourceUrl":"http://mzjk.top/禁止贩卖"}, 
+
+{"sourceName":"饭太硬","sourceUrl":"http://www.饭太硬.com/tv"}, 
+
+{"sourceName":"🐟摸鱼","sourceUrl":"http://我不是.摸鱼儿.com"}, 
+
+{"sourceName":"📽肥猫","sourceUrl":"http://肥猫.com"},  
+
+{"sourceName":"儿童教育","sourceUrl":"https://jihulab.com/bhjk1/vip/-/raw/main/vip.json"},
+
+{"sourceName":"学习雷锋","sourceUrl":"https://hyf1966.github.io/mytv/my.json"},
+
+{"sourceName":"YUAN极速","sourceUrl":"http://175.178.251.183:6689/tv.txt"},
+
+{"sourceName":"码点小干货","sourceUrl":"	http://mdxgh.tpddns.cn:9999/mdxgh.json"},
+
+{"sourceName":"4K云盘","sourceUrl":"https://9xi4o.tk/0725.json"},
+
+{"sourceName":"巧儿","sourceUrl":"http://pandown.pro/tvbox/tvbox.json"},
+
+{"sourceName":"胖虎","sourceUrl":"https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json"},
+
+{"sourceName":"宝盒肥猫","sourceUrl":"http://mzrjk.top/DC.txt"},
+
