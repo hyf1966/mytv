@@ -1,0 +1,5 @@
+﻿单仓接口地址：
+https://gitdl.cn/https://raw.githubusercontent.com/jigedos/house/main/ffdc.json
+
+多仓接口地址：
+https://gitdl.cn/https://raw.githubusercontent.com/jigedos/house/main/ffc.json
