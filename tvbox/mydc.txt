@@ -1,5 +1,5 @@
 ﻿{"urls":[
-{"name":"🍚饭太硬","url":"http://饭太硬.com/tv"},
+{"name":"🍚饭太硬","url":"http://www.饭太硬.com/tv"},
 {"name":"🐼肥猫源","url":"http://肥猫.com"},
 {"name":"宝盒","url":"http://mzjk.top/禁止贩卖"}, 
 {"name":"学习雷锋","url":"https://hyf1966.github.io/mytv/my.json"},
@@ -7,7 +7,5 @@
 {"name":"码点小干货","url":"http://mdxgh.tpddns.cn:9999/mdxgh.json"},
 {"name":"4K云盘","url":"https://9xi4o.tk/0725.json"},
 {"name":"巧儿","url":"http://pandown.pro/tvbox/tvbox.json"},
-{"name":"胖虎","url":"https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json"},
-{"name":"儿童教育","url":"https://jihulab.com/bhjk1/vip/-/raw/main/vip.json"},
-{"name":"宝盒肥猫","url":"http://mzrjk.top/DC.txt"}]
+{"name":"儿童教育","url":"https://jihulab.com/bhjk1/vip/-/raw/main/vip.json"}]
 }
