@@ -7,5 +7,7 @@
 {"name":"码点小干货","url":"http://mdxgh.tpddns.cn:9999/mdxgh.json"},
 {"name":"4K云盘","url":"https://9xi4o.tk/0725.json"},
 {"name":"巧儿","url":"http://pandown.pro/tvbox/tvbox.json"},
+{"name":"玩偶","url":"https://gitee.com/blssss/jk/raw/api/bls.json"},
+{"name":"莱妮丝","url":"https://tv.xn--yhqu5zs87a.top"},
 {"name":"儿童教育","url":"https://jihulab.com/bhjk1/vip/-/raw/main/vip.json"}]
 }
