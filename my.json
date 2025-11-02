@@ -5,9 +5,9 @@
   "logo": "http://php.540734621.xyz/logo/logo.php",
   "lives": [
     {
-      "name": "MDLIVE",
+      "name": "雷锋直播",
       "type": 0,
-      "url": "http://mdxgh.tpddns.cn:9999/new/mdzb.txt",
+      "url": "http://47.120.41.246:8899/xinzb.txt",
       "ua": "okhttp/3",
       "playerType": 2,
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
