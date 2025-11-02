@@ -12,6 +12,19 @@
       "playerType": 2,
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://gongdian.top/logo/tv/{name}.png"
+    },
+    {
+            "name": "卡卡西线路",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
+            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+    },
+    {
+            "name": "V4-develop202",
+            "type": 0,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "playerType": 2,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
   ],
   "sites": [
