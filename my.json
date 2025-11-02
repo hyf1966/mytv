@@ -25,6 +25,13 @@
             "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
             "playerType": 2,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    },
+    {
+            "name": "Guovin",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+            "playerType": 2,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
   ],
   "sites": [
