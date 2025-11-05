@@ -45,6 +45,13 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
+            "name": "IPV6整理",
+            "type": 0,
+            "url": "https://hyf1966.github.io/mytv/ipv6.txt",
+            "playerType": 2,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    },
+    {
             "name": "Guovin",
             "type": 0,
             "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
