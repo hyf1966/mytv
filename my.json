@@ -51,6 +51,13 @@
             "playerType": 2,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     },
+        {
+            "name": "Supprise",
+            "type": 0,
+            "url": "https://raw.kkgithub.com/Supprise0901/TVBox_live/main/live.txt",
+            "playerType": 2,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    },
     {
             "name": "Guovin",
             "type": 0,
