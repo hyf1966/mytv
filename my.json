@@ -58,6 +58,20 @@
             "playerType": 2,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     },
+            {
+            "name": "国语频道",
+            "type": 0,
+            "url": "https://epg.pw/test_channels.m3u",
+            "playerType": 2,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    },
+    {
+            "name": "世界免费频道",
+            "type": 0,
+            "url": "https://iptv-org.github.io/iptv/index.m3u",
+            "playerType": 2,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    },
     {
             "name": "Guovin",
             "type": 0,
