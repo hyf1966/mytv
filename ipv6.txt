@@ -577,6 +577,9 @@ CCTV17,https://www.freetv.top/migu/673168256.m3u8?migutoken=11fec7586772852c5b34
 中天新闻,https://smt.858.qzz.io/Smart.php?id=ctinews
 中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw01
 中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw02
+中天新闻,https://stream1.freetv.fun/105bdcbdb91afbd4a87017e76e56c33e3c1ba613857dabe2387818b29ec0a3b0.m3u8
+中天新闻,https://stream1.freetv.fun/d5a6ec037d2c4635d144520d0ddf989faeb6a5f8d5d85e3c5a5c07d2ca2d79b3.m3u8
+中天新闻,https://stream1.freetv.fun/d0dc419e572496e04901fdd844b4f116a46a43cf2651e93153312310bd703995.ctv
 
 北京卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 江苏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -2291,4 +2294,5 @@ MTV,#genre#
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+
 
