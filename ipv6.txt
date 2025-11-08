@@ -920,7 +920,7 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 
 CHC家庭影院,http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
-CHC高清电影,http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
+CHC影迷电影,http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
 CHC动作电影,http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
 
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -929,25 +929,12 @@ CHC动作电影,http://58.19.180.108:9981/stream/channelid/1782708396?profile=pa
 广东戏曲频道,http://vallest.uk/livehttpplay?channel_id=20142
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548c48c2954&txTime=1903e79e680
 
-哈尔滨影视,http://111.43.126.240:9003/hls/5/index.m3u8
-哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
-
-安徽影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-安徽影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
-
-广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
-山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8
 欢笑剧场,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
 欢笑剧场,http://1b6467f415.iok.la:9931/tsfile/live/1106_1.m3u8
 都市剧场,http://1b6467f415.iok.la:9931/tsfile/live/1107_1.m3u8
-
-AXN电影频道,http://156.238.248.80/smt.php?id=axn_twn
-CInemax频道,http://156.238.248.80/smt.php?id=cinemax_twn
-HBo高清频道,http://156.238.248.80/smt.php?id=hbohd_twn
-HBo家庭频道,http://156.238.248.80/smt.php?id=fyi_twn
 
 好片速递频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1143_1080P_t10/c55_fast_1143_1080P_t10.m3u8?d
 电影大片频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_738_1080P_t10/c57_fast_738_1080P_t10.m3u8?d
@@ -968,30 +955,6 @@ HBo家庭频道,http://156.238.248.80/smt.php?id=fyi_twn
 警匪悬疑频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_880_1080P_t10/c58_fast_880_1080P_t10.m3u8?d
 古装大剧频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_879_1080P_t10/c55_fast_879_1080P_t10.m3u8?d
 爱情生活频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
-
-Cinemax,http://156.238.248.80/smt.php?id=Cinemax
-Animax,http://156.238.248.80/smt.php?id=Animax
-Movies Now HD,http://156.238.248.80/smt.php?id=moviesnow_raj
-Star Movies HD,http://156.238.248.80/smt.php?id=starmovies_raj
-HBO Family,http://156.238.248.80/smt.php?id=Hbofamily
-Hits,http://156.238.248.80/smt.php?id=Hits
-Warner TV,http://156.238.248.80/smt.php?id=WarnerTV
-HBO HD,http://156.238.248.80/smt.php?id=Hbo
-HBO Signature,http://156.238.248.80/smt.php?id=Hbosignature
-HBO Hits,http://156.238.248.80/smt.php?id=Hbohitshd
-SCM,http://156.238.248.80/smt.php?id=Weishimovie
-Dreamworks,http://156.238.248.80/smt.php?id=Dreamworks
-Thrill,http://156.238.248.80/smt.php?id=Thrill
-Hits Movie,http://156.238.248.80/smt.php?id=Hitsmovie
-One,http://156.238.248.80/smt.php?id=One
-tvN Movie,http://156.238.248.80/smt.php?id=Tvnmovie
-Celestial Classic,http://156.238.248.80/smt.php?id=Celestial2
-Celestial Movies HD,http://156.238.248.80/smt.php?id=Celestialindo
-Axn HD,http://156.238.248.80/smt.php?id=Axn
-Paramount Network,http://156.238.248.80/smt.php?id=Paramountnetwork
-Astrol Kplus,http://156.238.248.80/smt.php?id=Kplus
-Rock Actions,http://156.238.248.80/smt.php?id=Rockaction
-Rock Entertainment,http://156.238.248.80/smt.php?id=Rockentertain
 
 
 🇨🇳河南地方,#genre#
@@ -2146,6 +2109,7 @@ MTV,#genre#
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+
 
 
 
