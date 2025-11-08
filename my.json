@@ -47,7 +47,7 @@
     {
             "name": "IPTv整理",
             "type": 0,
-            "url": "https://hyf1966.github.io/mytv/ipv6.txt",
+            "url": "https://hyf1966.github.io/mytv/iptv.txt",
             "playerType": 2,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     },
