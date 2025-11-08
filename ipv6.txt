@@ -36,6 +36,13 @@ CCTV-4K,http://qjrhc.jydjd.top:2911/udp/225.1.101.109:7523
 广东超高清4k,http://qjrhc.jydjd.top:2911/udp/225.1.1.3:7523
 广东超高清4k,http://qjrhc.jydjd.top:2911/udp/225.1.101.44:7523
 
+北京卫视频4k,http://rustdesk.szsun.xyz:8088/udp/239.77.0.2:5146
+北京卫视频4k,http://rustdesk.szsun.xyz:8088/udp/239.77.1.13:5146
+北京卫视频4k,http://rustdesk.szsun.xyz:8088/udp/239.77.0.3:5146
+广东卫视频4k,http://rustdesk.szsun.xyz:8088/udp/239.77.0.27:5146
+广东卫视频4k,http://rustdesk.szsun.xyz:8088/udp/239.77.0.66:5146
+深圳卫视频4k,http://rustdesk.szsun.xyz:8088/udp/239.77.0.67:5146
+深圳卫视频4k,http://rustdesk.szsun.xyz:8088/udp/239.77.1.14:5146
 
 央视频道,#genre#
 
@@ -2060,6 +2067,7 @@ MTV,#genre#
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+
 
 
 
