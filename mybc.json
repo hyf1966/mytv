@@ -1,4 +1,8 @@
 {
+   "spider": "./1226lib/1226.jar",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+  "warningText": "接口免费整理维护",
+  "logo": "http://php.540734621.xyz/logo/logo.php",
   "lives": [
     {
       "name": "冰茶",
@@ -28,8 +32,6 @@
   "ads": [
     "static-mozai.4gtv.tv"
   ]
-}
-
 
 {
             "key": "lf_live10_min",
@@ -41,4 +43,8 @@
             "changeable": 1,
             "api": "./js/apiv129lf_live10_min-output.js",
             "ext": "./png/yszb.png"
-        },
+}
+}
+
+
+
