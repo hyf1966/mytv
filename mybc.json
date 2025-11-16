@@ -31,9 +31,9 @@
   ],
   "ads": [
     "static-mozai.4gtv.tv"
-  ]
+  ],
   "sites": [
-{
+      {
             "key": "lf_live10_min",
             "name": "📀冰茶 | 直播",
             "type": 3,
@@ -43,8 +43,8 @@
             "changeable": 1,
             "api": "./js/apiv129lf_live10_min-output.js",
             "ext": "./png/yszb.png"
-}
-  ]
+     }
+   ]
 }
 
 
