@@ -1,0 +1,14 @@
+#订阅名
+地址(支持m3u订阅、tvbox配置文件中live选项的直播地址订阅)
+
+相对路径说明
+以./开头，相对位置是本订阅文件
+以/开头，存储卡的根目录
+#AI·冰茶
+https://fy.188766.xyz/?ip=192.168.1.2&mishitong=false&bconly=true
+#AI·云视
+https://gitee.com/yuan301/tv/raw/master/A/tv.png
+#AI·综合
+https://pan.aa53.cn/down.php/46612507baf01ecef378402ce9ff2af2.txt&984106
+#AI·高码
+http://rihou.cc:567/gggg.nzk
