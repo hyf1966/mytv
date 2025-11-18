@@ -511,6 +511,10 @@ CHC影迷电影,https://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8
 
 卫视频道,#genre#
 
+中天新闻实时,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
+中天新闻实时,http://bxtv.3a.ink/api.php?id=ztxw
+中天新闻实时,https://live.catvod.com/live.php?id=ctinews&token=346d2e561481b3a30f414d52af18a3261a8e65897808262c0833a9ef37317873%3A1763376182%3AMTQuMTE3LjE0Ni4xMTY%3D
+中天新闻实时,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
 中天新闻,https://smt.858.qzz.io/Smart.php?id=ctinews
 中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw01
 中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw02
@@ -1953,6 +1957,7 @@ MTV,#genre#
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 春晚2025,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+
 
 
 
