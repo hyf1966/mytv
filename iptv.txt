@@ -76,8 +76,8 @@ CCTV14,http://go.bkpcp.top/mg/cctv14
 CCTV15,http://go.bkpcp.top/mg/cctv15
 CCTV16,http://go.bkpcp.top/mg/cctv16
 CCTV17,http://go.bkpcp.top/mg/cctv17
-cct4欧洲,http://go.bkpcp.top/mg/cctv4o
-cct4美洲,http://go.bkpcp.top/mg/cctv4m
+cctv4欧洲,http://go.bkpcp.top/mg/cctv4o
+cctv4美洲,http://go.bkpcp.top/mg/cctv4m
 CGTN西班牙,http://go.bkpcp.top/mg/cgtne
 CGTN阿拉伯,http://go.bkpcp.top/mg/cgtna
 CGTN法国,http://go.bkpcp.top/mg/cgtnf
@@ -114,8 +114,8 @@ CCTV14,http://j.s.bkpcp.top/jj/cctv14
 CCTV15,http://j.s.bkpcp.top/jj/cctv15
 CCTV16,http://j.s.bkpcp.top/jj/cctv16
 CCTV17,http://j.s.bkpcp.top/jj/cctv17
-cct4欧洲,http://j.s.bkpcp.top/jj/cctv4o
-cct4美洲,http://j.s.bkpcp.top/jj/cctv4m
+cctv4欧洲,http://j.s.bkpcp.top/jj/cctv4o
+cctv4美洲,http://j.s.bkpcp.top/jj/cctv4m
 CGTN西班牙,http://j.s.bkpcp.top/jj/cgtne
 CGTN阿拉伯,http://j.s.bkpcp.top/jj/cgtna
 CGTN法国,http://j.s.bkpcp.top/jj/cgtnf
@@ -247,12 +247,12 @@ RTHK-32,http://vallest.uk/livehttpplay?channel_id=30028
 广东体育,http://vallest.uk/livehttpplay?channel_id=20130
 广东体育,http://vallest.uk/livehttpplay?channel_id=30031
 广东戏曲,http://vallest.uk/livehttpplay?channel_id=20142
-CCTV-05,http://vallest.uk/livehttpplay?channel_id=10107
-CCTV-05,http://vallest.uk/livehttpplay?channel_id=20005
-CCTV-05,http://vallest.uk/livehttpplay?channel_id=30003
+CCTV-5,http://vallest.uk/livehttpplay?channel_id=10107
+CCTV-5,http://vallest.uk/livehttpplay?channel_id=20005
+CCTV-5,http://vallest.uk/livehttpplay?channel_id=30003
 CCTV-5+,http://vallest.uk/livehttpplay?channel_id=20006
 CCTV-5+,http://vallest.uk/livehttpplay?channel_id=30004
-CCTV-07,http://vallest.uk/livehttpplay?channel_id=20008
+CCTV-7,http://vallest.uk/livehttpplay?channel_id=20008
 CCTV-15,http://vallest.uk/livehttpplay?channel_id=20016
 CCTV-16,http://vallest.uk/livehttpplay?channel_id=20039
 CCTV-4k,http://vallest.uk/livehttpplay?channel_id=30029
@@ -1528,6 +1528,7 @@ MTV,#genre#
 亮剑之第28集,https://vip.dytt-play.com/20250119/28_33e75ff0/index.m3u8
 亮剑之第29集,https://vip.dytt-play.com/20250119/29_6ea9ab1b/index.m3u8
 亮剑之第30集,https://vip.dytt-play.com/20250119/30_34173cb3/index.m3u8
+
 
 
 
