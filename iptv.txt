@@ -187,32 +187,32 @@ CCTV17,http://t.61899.xyz/tl/tl.php?id=cctv17
 
 欣赏频道,#genre#
 
-中天新闻实时,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
-tvbs闽南国推,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskks.flv
-tvbs新话国推,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagxytwkks.flv
-Now新闻粤推,https://stream1.freetv.fun/nowxin-wen-4.m3u8
-Now财经粤推,https://stream1.freetv.fun/nowcai-jing-2.m3u8
-Now体育粤推,https://stream1.freetv.fun/nowsports-1.m3u8
-Now星影粤推,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow01kkhk.flv
-Now爆谷粤推,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow02kkhk.flv
-凤凰中文实时,http://vallest.uk/livehttpplay?channel_id=30014
-凤凰资讯实时,http://vallest.uk/livehttpplay?channel_id=30015
-凤凰香港实时,http://vallest.uk/livehttpplay?channel_id=30016
-中天新闻实时,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
-中天新闻实时,http://bxtv.3a.ink/api.php?id=ztxw
-中天新闻实时,https://live.catvod.com/live.php?id=ctinews&token=346d2e561481b3a30f414d52af18a3261a8e65897808262c0833a9ef37317873%3A1763376182%3AMTQuMTE3LjE0Ni4xMTY%3D
-中天新闻实时,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
-有线新闻实时,http://iptv.4666888.xyz/iptv2A.php?id=31
-有线新闻实时,http://hls.168.us.kg/u/78/master.m3u8
-有线新闻实时,https://live.catvod.com/live.php?id=hoycaijing_twn&token=9387a9ebedad3a0e2df880fc2c376cfbffa7e4b8f89582108e3c811743224508%3A1763376182%3AMTQuMTE3LjE0Ni4xMTY%3D
-无线新闻实时,http://vallest.uk/livehttpplay?channel_id=30024
-有线综合实时,http://vallest.uk/livehttpplay?channel_id=20152
-无线翡翠实时,http://vallest.uk/livehttpplay?channel_id=20124
-无线明珠实时,http://vallest.uk/livehttpplay?channel_id=30026
-RTHK-31实时,http://vallest.uk/livehttpplay?channel_id=30066
-RTHK-32实时,http://vallest.uk/livehttpplay?channel_id=30067
-VIUTV粤实时,http://vallest.uk/livehttpplay?channel_id=30032
-VIUTV英实时,http://vallest.uk/livehttpplay?channel_id=30033
+中天新闻,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
+tvbs闽南,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskks.flv
+tvbs新话,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagxytwkks.flv
+Now新闻粤,https://stream1.freetv.fun/nowxin-wen-4.m3u8
+Now财经粤,https://stream1.freetv.fun/nowcai-jing-2.m3u8
+Now体育粤,https://stream1.freetv.fun/nowsports-1.m3u8
+Now星影粤,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow01kkhk.flv
+Now爆谷粤,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow02kkhk.flv
+凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
+凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
+凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
+中天新闻,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
+中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
+中天新闻,https://live.catvod.com/live.php?id=ctinews&token=346d2e561481b3a30f414d52af18a3261a8e65897808262c0833a9ef37317873%3A1763376182%3AMTQuMTE3LjE0Ni4xMTY%3D
+中天新闻,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
+有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
+有线新闻,http://hls.168.us.kg/u/78/master.m3u8
+有线新闻,https://live.catvod.com/live.php?id=hoycaijing_twn&token=9387a9ebedad3a0e2df880fc2c376cfbffa7e4b8f89582108e3c811743224508%3A1763376182%3AMTQuMTE3LjE0Ni4xMTY%3D
+无线新闻,http://vallest.uk/livehttpplay?channel_id=30024
+有线综合,http://vallest.uk/livehttpplay?channel_id=20152
+无线翡翠,http://vallest.uk/livehttpplay?channel_id=20124
+无线明珠,http://vallest.uk/livehttpplay?channel_id=30026
+RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066
+RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067
+VIUTV粤,http://vallest.uk/livehttpplay?channel_id=30032
+VIUTV英,http://vallest.uk/livehttpplay?channel_id=30033
 中天新闻,https://smt.858.qzz.io/Smart.php?id=ctinews
 中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw01
 中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw02
@@ -1528,6 +1528,7 @@ MTV,#genre#
 亮剑之第28集,https://vip.dytt-play.com/20250119/28_33e75ff0/index.m3u8
 亮剑之第29集,https://vip.dytt-play.com/20250119/29_6ea9ab1b/index.m3u8
 亮剑之第30集,https://vip.dytt-play.com/20250119/30_34173cb3/index.m3u8
+
 
 
 
