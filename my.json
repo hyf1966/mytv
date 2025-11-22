@@ -57,7 +57,7 @@
             "type": 0,
             "url": "https://hyf1966.github.io/mytv/iptv.txt",
             "playerType": 2,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+            "epg": "epg.erw.cc/e.xml"
     },
     {
             "name": "Supprise",
