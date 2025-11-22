@@ -438,26 +438,6 @@ CHC动作电影,http://58.19.180.108:9981/stream/channelid/1782708396?profile=pa
 爱情生活频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
 
 
-🇨🇳河南地方,#genre#
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=131e7119828ca75963b3a0f2e0e80bdb&wsTime=1762596014
-新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=1fbfc8559917941c66bf290d5141f716&wsTime=1762596014
-都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=a8916626832b9b0abcee9036c24c2f5d&wsTime=1762596014
-民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=05f69edc9060cbde674ffffb58d2831b&wsTime=1762596014
-法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=4734029d82fe8e158c5cbf2228f09474&wsTime=1762596014
-公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=af1fb0c09f16e202102d98656f98e447&wsTime=1762596014
-河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=29a8f3a911145e762799b49c22b4aa1e&wsTime=1762596014
-电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=ea6754810d23192d8320b51fce13093b&wsTime=1762596014
-梨园频道,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=c06a8761eac490e501b43ad677f3fe2d&wsTime=1762596014
-文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=f053a28cb3cfec72d38c206337b8569f&wsTime=1762596014
-武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=e130c7700a587694e8f8b60b2b40f844&wsTime=1762596014
-移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=5441af9b1d5fe4929acdd1eb35cc6691&wsTime=1762596014
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=2b54ee14c9520673cdd9f9908c8d516c&wsTime=1762596014
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=254ede391152ead2280d86697fcea729&wsTime=1762596014
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=db03f851bfa0d4eccbb91db632986a2a&wsTime=1762596014
-
-
-
-
 斗鱼,#genre#
 
 漫威影院,http://120.77.28.4:8648/douyu.php?id=6140589
@@ -1527,5 +1507,6 @@ MTV,#genre#
 亮剑之第28集,https://vip.dytt-play.com/20250119/28_33e75ff0/index.m3u8
 亮剑之第29集,https://vip.dytt-play.com/20250119/29_6ea9ab1b/index.m3u8
 亮剑之第30集,https://vip.dytt-play.com/20250119/30_34173cb3/index.m3u8
+
 
 
