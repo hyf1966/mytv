@@ -1,39 +1,39 @@
 🇨🇳4K频道,#genre#
 
-北京卫视频4k,http://106.53.99.30/tv/bj.php?id=bjws4k
-东方卫视频4k,http://106.53.99.30/tv/api.php?id=dfws4k
-浙江卫视频4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
-江苏卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.64:5140
-湖南卫视频4k,http://106.53.99.30/tv/api.php?id=hnws4k
-广东卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.103:5140 
-深圳卫视频4k,http://106.53.99.30/tv/api.php?id=szws4k
-北京卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
-东方卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
-浙江卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
-江苏卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
-湖南卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
-广东卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
-深圳卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
-山东卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
-四川卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
-北京卫视频4k,http://49.235.65.250:600/beijing/beijing.php?id=bjws4k
-深圳卫视频4k,https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
-苏州4k频道超,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-河北4k频道超,https://event.pull.hebtv.com:443/live/live101.m3u8
+北京卫视,http://106.53.99.30/tv/bj.php?id=bjws4k
+东方卫视,http://106.53.99.30/tv/api.php?id=dfws4k
+浙江卫视,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+江苏卫视,http://124.116.170.138:8081/rtp/239.111.205.64:5140
+湖南卫视,http://106.53.99.30/tv/api.php?id=hnws4k
+广东卫视,http://124.116.170.138:8081/rtp/239.111.205.103:5140 
+深圳卫视,http://106.53.99.30/tv/api.php?id=szws4k
+北京卫视,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
+东方卫视,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
+浙江卫视,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
+江苏卫视,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
+湖南卫视,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
+广东卫视,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
+深圳卫视,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
+山东卫视,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
+四川卫视,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
+北京卫视,http://49.235.65.250:600/beijing/beijing.php?id=bjws4k
+深圳卫视,https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
+苏州4k,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北4k,https://event.pull.hebtv.com:443/live/live101.m3u8
 
 
-北京卫视频4k,http://qjrhc.jydjd.top:2911/udp/225.1.101.72:7523
-广东卫视频4k,http://qjrhc.jydjd.top:2911/udp/225.1.101.86:7523
-深圳卫视频4k,http://qjrhc.jydjd.top:2911/udp/225.1.101.35:7523
+北京卫视,http://qjrhc.jydjd.top:2911/udp/225.1.101.72:7523
+广东卫视,http://qjrhc.jydjd.top:2911/udp/225.1.101.86:7523
+深圳卫视,http://qjrhc.jydjd.top:2911/udp/225.1.101.35:7523
 
 
-北京卫视频4k,http://rustdesk.szsun.xyz:8088/udp/239.77.0.2:5146
-北京卫视频4k,http://rustdesk.szsun.xyz:8088/udp/239.77.1.13:5146
-北京卫视频4k,http://rustdesk.szsun.xyz:8088/udp/239.77.0.3:5146
-广东卫视频4k,http://rustdesk.szsun.xyz:8088/udp/239.77.0.27:5146
-广东卫视频4k,http://rustdesk.szsun.xyz:8088/udp/239.77.0.66:5146
-深圳卫视频4k,http://rustdesk.szsun.xyz:8088/udp/239.77.0.67:5146
-深圳卫视频4k,http://rustdesk.szsun.xyz:8088/udp/239.77.1.14:5146
+北京卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.0.2:5146
+北京卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.1.13:5146
+北京卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.0.3:5146
+广东卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.0.27:5146
+广东卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.0.66:5146
+深圳卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.0.67:5146
+深圳卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.1.14:5146
 
 🇨🇳央视咪咕,#genre#
 CCTV1综合,https://live.chinacert.cftest5.cn/mg/?id=608807420
@@ -1528,6 +1528,7 @@ MTV,#genre#
 亮剑之第28集,https://vip.dytt-play.com/20250119/28_33e75ff0/index.m3u8
 亮剑之第29集,https://vip.dytt-play.com/20250119/29_6ea9ab1b/index.m3u8
 亮剑之第30集,https://vip.dytt-play.com/20250119/30_34173cb3/index.m3u8
+
 
 
 
