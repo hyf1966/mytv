@@ -190,6 +190,7 @@ CCTV17,http://t.61899.xyz/tl/tl.php?id=cctv17
 
 中天新闻,http://rihou.cc:555/tv/中天新闻ts
 中天新闻,http://rihou.cc:555/tv/中天新闻tl
+tvbs闽南,http://rihou.cc:555/tv/tvbs闽南ts
 tvbs新话,http://rihou.cc:555/tv/tvbs新话ts
 Now英超,http://rihou.cc:555/tv/Now英超ts
 Now星影,http://rihou.cc:555/tv/Now星影国ts
@@ -1537,6 +1538,7 @@ MTV,#genre#
 亮剑之第28集,https://vip.dytt-play.com/20250119/28_33e75ff0/index.m3u8
 亮剑之第29集,https://vip.dytt-play.com/20250119/29_6ea9ab1b/index.m3u8
 亮剑之第30集,https://vip.dytt-play.com/20250119/30_34173cb3/index.m3u8
+
 
 
 
