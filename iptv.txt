@@ -184,6 +184,22 @@ CCTV17,http://t.61899.xyz/tl/tl.php?id=cctv17
 内蒙古视,http://t.61899.xyz/tl/tl.php?id=nmgws
 黑龙江视,http://t.61899.xyz/tl/tl.php?id=hljws
 
+BXTV,#genre#
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+明珠台,http://bxtv.3a.ink/api.php?id=mz
+無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
+美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
+千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
+翡翠台,http://bxtv.3a.ink/api.php?id=fct
+鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
+鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
+鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
+POPC,http://bxtv.3a.ink/api.php?id=popc
+NOW爆谷台,http://bxtv.3a.ink/api.php?id=baogu
+NOW爆谷星影台,http://bxtv.3a.ink/api.php?id=xingying
+中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
+
 
 欣赏频道,#genre#
 
@@ -1538,6 +1554,7 @@ MTV,#genre#
 亮剑之第28集,https://vip.dytt-play.com/20250119/28_33e75ff0/index.m3u8
 亮剑之第29集,https://vip.dytt-play.com/20250119/29_6ea9ab1b/index.m3u8
 亮剑之第30集,https://vip.dytt-play.com/20250119/30_34173cb3/index.m3u8
+
 
 
 
