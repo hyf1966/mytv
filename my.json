@@ -54,7 +54,7 @@
     {
             "name": "BXTV",
             "type": 0,
-            "url": "http://bxtv.3a.ink/live.txt",
+            "url": "https://hyf1966.github.io/mytv/bxtv.txt",
             "playerType": 2,
             "epg": "epg.erw.cc/e.xml"
     },
