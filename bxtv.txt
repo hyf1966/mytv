@@ -1,0 +1,28 @@
+BXTV,#genre#
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+明珠台,http://bxtv.3a.ink/api.php?id=mz
+無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
+美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
+千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
+翡翠台,http://bxtv.3a.ink/api.php?id=fct
+鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
+鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
+鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
+POPC,http://bxtv.3a.ink/api.php?id=popc
+NOW爆谷台,http://bxtv.3a.ink/api.php?id=baogu
+NOW爆谷星影台,http://bxtv.3a.ink/api.php?id=xingying
+中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
+
+
+欣赏频道,#genre#
+中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
+
+tvbs闽南,http://cmtv.netlib.re/channel/n6db37f50.m3u8
+tvbs新闻,http://cmtv.netlib.re/channel/313be55e.m3u8
+中天新闻,http://cmtv.netlib.re/channel/2a347829.m3u8
+
+tvbs闽南,http://rihou.cc:555/tv/Hk|tvbs闽南l
+中天新闻,http://rihou.cc:555/tv/Hk|中天新闻l
+
+CCTV1,http://rihou.cc:555/tv/Pd|央视综合l
