@@ -17,17 +17,22 @@ NOW爆谷星影台,http://bxtv.3a.ink/api.php?id=xingying
 
 欣赏频道,#genre#
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
+中天新闻,http://rihou.cc:555/tv/[Hk]中天新闻
+中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
+中天新闻,http://rihou.cc:555/tv/[ST]中天新闻
+中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 
 tvbs闽南,http://cmtv.netlib.re/channel/n6db37f50.m3u8
 tvbs新闻,http://cmtv.netlib.re/channel/313be55e.m3u8
 中天新闻,http://cmtv.netlib.re/channel/2a347829.m3u8
 
 tvbs闽南,http://rihou.cc:555/tv/Hk|tvbs闽南
-中天新闻,http://rihou.cc:555/tv/Hk|中天新闻
+
 
 tvbs精采,http://cmtv.netlib.re/channel/n9663e69.m3u8
 tvbs欢乐,http://cmtv.netlib.re/channel/n9ac3d61.m3u8
 tvbs综艺,http://cmtv.netlib.re/channel/n9646e61.m3u8
 tvbs台剧,http://cmtv.netlib.re/channel/na071477.m3u8
 
-CCTV1,http://rihou.cc:555/tv/Pd|央视综合
+Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
+Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
