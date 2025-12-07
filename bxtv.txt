@@ -68,3 +68,15 @@ RTHK-31,http://rihou.cc:555/tv/[Mt]RTHK-31
 RTHK-31,http://rihou.cc:555/tv/[Cx]RTHK-31
 RTHK-32,http://rihou.cc:555/tv/[Cx]RTHK-32
 wwe格斗,http://rihou.cc:555/tv/[FY]wwe格斗
+
+SPOTV-1FYtv,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV-2FYtv,http://iptv.4666888.xyz/iptv2A.php?id=1
+Football-FYtv,http://iptv.4666888.xyz/iptv2A.php?id=4
+Sports-3'FYtv,http://iptv.4666888.xyz/iptv2A.php?id=3
+CCTV-1,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV-2,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV-3,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV-4,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV-13,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV-14,http://iptv.4666888.xyz/iptv2A.php?id=12
+CCTV-16,http://iptv.4666888.xyz/iptv2A.php?id=32
