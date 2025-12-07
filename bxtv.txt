@@ -22,7 +22,7 @@ NOW爆谷星影台,http://bxtv.3a.ink/api.php?id=xingying
 中天新闻,http://rihou.cc:555/tv/[ST]中天新闻
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 
-tvbS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
+tvbs新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 tvbS新闻,http://rihou.cc:555/tv/[ST]tvbS新闻
 tvbs闽南,http://rihou.cc:555/tv/[Hk]tvbs闽南
 tvbs闽南,http://rihou.cc:555/tv/[ST]tvbS闽南
