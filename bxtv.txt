@@ -39,3 +39,12 @@ tvbs台剧,http://cmtv.netlib.re/channel/na071477.m3u8
 
 Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
 Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
+
+pₒₚc电影,http://rihou.cc:555/tv/[FY]pₒₚc电影
+pₒₚc电影,http://rihou.cc:555/tv/[Bx]pₒₚc电影
+Now星影,http://rihou.cc:555/tv/[Hk]Now星影
+Now星影,http://rihou.cc:555/tv/[Mt]Now星影
+Now星影,http://rihou.cc:555/tv/[Bx]Now星影
+Now爆谷,http://rihou.cc:555/tv/[Hk]Now爆谷
+Now爆谷,http://rihou.cc:555/tv/[Mt]Now爆谷
+Now爆谷,http://rihou.cc:555/tv/[Bx]Now爆谷
