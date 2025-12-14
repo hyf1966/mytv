@@ -73,6 +73,8 @@ SPOTV-1FYtv,http://iptv.4666888.xyz/iptv2A.php?id=2
 SPOTV-2FYtv,http://iptv.4666888.xyz/iptv2A.php?id=1
 Football-FYtv,http://iptv.4666888.xyz/iptv2A.php?id=4
 Sports-3'FYtv,http://iptv.4666888.xyz/iptv2A.php?id=3
+
+央视,#genre#
 CCTV-1,http://iptv.4666888.xyz/iptv2A.php?id=7
 CCTV-2,http://iptv.4666888.xyz/iptv2A.php?id=8
 CCTV-3,http://iptv.4666888.xyz/iptv2A.php?id=9
