@@ -104,6 +104,9 @@ CCTV-16,http://iptv.4666888.xyz/iptv2A.php?id=32
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
 
+CCTV-1,http://bxtv.3a.ink/api.php?id=cctv1
+CCTV-2,http://bxtv.3a.ink/api.php?id=cctv2
+CCTV-3,http://bxtv.3a.ink/api.php?id=cctv3
 
 咪咕,#genre#
 CCTV-1,http://rihou.cc:555/tv/[mg]CCTV-01
