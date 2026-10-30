@@ -30,8 +30,8 @@ CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485
 深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481#webview://https://www.sztv.com.cn/dianshi.shtml?id=24725#webview://https://www.sztv.com.cn/dianshi.shtml?id=7867
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
-浙江卫视,http://alixwl.cztv.com/live/channel4k2160p.m3u8#webview://https://yangshipin.cn/tv/home?pid=600002520
-湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475#http://hlsalldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8#webview://https://yangshipin.cn/tv/home?pid=600002520
+湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475#http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖北卫视,webview://https://yangshipin.cn/tv/home?pid=600002508
 广西卫视,webview://https://yangshipin.cn/tv/home?pid=600002509
 海南卫视,webview://https://yangshipin.cn/tv/home?pid=600002506
