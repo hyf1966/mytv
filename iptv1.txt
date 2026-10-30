@@ -73,3 +73,14 @@ CCTV4K,http://60.4.28.229:8077/rtp/239.253.92.219:6228$河北联通11#http://60.
 优漫卡通,http://60.4.28.229:8077/rtp/239.253.93.204:6382$河北联通11
 嘉佳卡通,http://60.4.28.229:8077/rtp/239.253.93.203:6381$河北联通11
 中国交通,http://60.4.28.229:8077/rtp/239.253.93.189:6357$河北联通11#http://144.255.16.190:6688/udp/239.21.1.115:5002$山东电信11
+
+爱奇频道,#genre#
+古装妖魔频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
+军旅剧场频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
+家庭剧场频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
+泰语剧场频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
+搞笑剧场频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
+传奇剧场频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_1052_1080P_t10/c54_fast_1052_1080P_t10.m3u8?d
+大家剧场频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
+爱情生活频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
+
