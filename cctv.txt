@@ -2,7 +2,7 @@
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV3,webview://https://yangshipin.cn/tv/home?pid=600001801
-CCTV4中文国际,webview://https://yangshipin.cn/tv/home?pid=600001814
+CCTV4,webview://https://yangshipin.cn/tv/home?pid=600001814
 CCTV5,webview://https://yangshipin.cn/tv/home?pid=600001818
 CCTV5+,webview://https://yangshipin.cn/tv/home?pid=600001817
 CCTV6,webview://https://yangshipin.cn/tv/home?pid=600108442
